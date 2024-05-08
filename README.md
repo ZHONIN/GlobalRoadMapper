@@ -1,7 +1,7 @@
-<h2 align="center">Integrating Supervised Domain Incremental and Unsupervised Domain Adaptation for Submeter-level Global-Scale Road Mapping</h2>
+<h2 align="center">Submeter-level global-scale road mapping based on limited labeled data from optical remote sensing images</h2>
 
 
-<h5 align="right">by Ning Zhou, Mingting Zhou, Dingyuan Chen and Haigang Sui</h5>
+<h5 align="right">by Ning Zhou, Mingting Zhou, Dingyuan Chen, Yihao Zhu and Haigang Sui</h5>
 
 This is an official implementation of SDIUDA.
 ---------------------
