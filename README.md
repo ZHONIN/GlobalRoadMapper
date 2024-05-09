@@ -27,7 +27,7 @@ This is an official implementation of SDIUDA.
 
 
 ## Citation
-If you use SDIUDA in your research, please cite the following papers.
+If you use GlobalRoadMapper in your research, please cite the following papers.
 ```text
 
 ```
